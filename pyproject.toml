@@ -1,0 +1,6 @@
+[project]
+name = "combo-typer"
+version = "0.1.0"
+description = "콤보 타자기 + 자체 온라인 리더보드 API"
+requires-python = ">=3.12"
+dependencies = ["fastapi>=0.110", "uvicorn>=0.29"]
